@@ -86,7 +86,7 @@ article{
     padding: 100px;
   
 }
-.blur {
+h4.blur {
    color: transparent;
    text-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
